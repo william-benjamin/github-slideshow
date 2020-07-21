@@ -1,5 +1,5 @@
 ---
-layout: slidle
+layout: slide
 title: "Welcome to our second slide!"
 ---
 Hey Ya! Hey Ya!
